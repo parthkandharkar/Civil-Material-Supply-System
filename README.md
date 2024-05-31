@@ -1,0 +1,1 @@
+A Java-based desktop application with PostgreSQL for civil material suppliers encompassing features like billing, inventory, employee, and dealer management, leading to a 40% improvement in operational efficiency and a 25% reduction in process turnaround time
